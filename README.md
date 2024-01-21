@@ -1,2 +1,2 @@
 ### Hi there 👋
- I’m currently learning python
+ I’m currently learning python an java
